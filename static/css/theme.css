@@ -1130,3 +1130,9 @@ pre .copy-to-clipboard:hover {
 #searchResults {
     text-align: left;
 }
+
+/* Custom stuff */
+
+#body img .blog-banner {
+  margin: 0 auto 1em;
+}
